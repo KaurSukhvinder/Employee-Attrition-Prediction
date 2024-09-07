@@ -1,4 +1,4 @@
-# Employee Attrition Project
+# Employee Attrition Prediction Model
 
 ## Quick Introduction
 
